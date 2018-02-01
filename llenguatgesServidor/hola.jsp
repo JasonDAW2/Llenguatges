@@ -4,9 +4,9 @@
   </head>
 
   <body>
-  <p>Hola Ramis</p>
+  <p>Hola Eclipse</p>
 
-  <%= new String("Hola ramis") %>
+  <%= out.println("Hola Eclipse"); %>
 
   </body>
 </html> 
