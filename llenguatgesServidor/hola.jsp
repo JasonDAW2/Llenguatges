@@ -6,7 +6,7 @@
   <body>
   <p>Hola Eclipse</p>
 
-  <%= out.println("Hola Eclipse"); %>
+  <%= out.println("Hola Ramis desde Windows"); %>
 
   </body>
 </html> 
