@@ -1,5 +1,5 @@
 public class Hola{
 	public static void main(String args[]){
-		System.out.println("Hola Ramis desde Windows");
+		System.out.println("Hola VisualStudio");
 	}
 }
