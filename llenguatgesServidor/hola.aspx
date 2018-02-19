@@ -5,7 +5,7 @@
 <body>
     <form id="form1" runat="server">
     <div>
-        <asp:Label runat="server" id="holaRamisDesdewindows">Hola Ramis desde windows</asp:Label>
+        <asp:Label runat="server" id="holaRamisDesdewindows">Hola Visual Studio</asp:Label>
     </div>
     </form>
 </body>
